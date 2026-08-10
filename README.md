@@ -1,1 +1,1 @@
-This is just a basic chatbot that i will still recreate to a better version
+A command-line chatbot built with Python, handling basic pattern-matched responses.
